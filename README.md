@@ -1,2 +1,3 @@
-# testportfolio
-a one page test portfolio
+# Justin Man
+a one page portfolio
+
